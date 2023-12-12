@@ -29,7 +29,3 @@ GRID
 # 배포: netlify
 https://65770d29bb45757a0a524e04--lovely-clafoutis-a677d2.netlify.app/
 ![image](https://github.com/catspie/christmas/assets/102503668/ab230ec4-a678-4769-bb0a-0635f2822b9f)
-
-
-# 눈내리는거 활용해보기 (블로그에 적용)
-https://howtomakecode.tistory.com/
